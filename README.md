@@ -56,7 +56,13 @@ This module contains tests for the `simulation` module to ensure its methods are
   - If a cell takes too long to run, try adjusting the number of frames or iterations.
  
 ## Dependencies
-
+- `numpy`
+- `pylab`
+- `itertools`
+- `random`
+- `matplotlib`
+- `scipy`
+- `statistics`
 
 
 
